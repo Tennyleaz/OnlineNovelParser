@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginWebTest", "LoginWebTest\LoginWebTest.csproj", "{1B32F298-7342-465B-A46E-EDD63A860A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelSiteParser", "NovelSiteParser\NovelSiteParser.csproj", "{27BB7227-C7D6-4156-910D-20782CFD43FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B32F298-7342-465B-A46E-EDD63A860A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B32F298-7342-465B-A46E-EDD63A860A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B32F298-7342-465B-A46E-EDD63A860A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B32F298-7342-465B-A46E-EDD63A860A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BB7227-C7D6-4156-910D-20782CFD43FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BB7227-C7D6-4156-910D-20782CFD43FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BB7227-C7D6-4156-910D-20782CFD43FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BB7227-C7D6-4156-910D-20782CFD43FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB7A68C-C820-4708-AEC0-B715A48BB12E}
+	EndGlobalSection
+EndGlobal
